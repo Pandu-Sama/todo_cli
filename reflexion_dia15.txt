@@ -1,0 +1,8 @@
+# Reflexiòn Dìa 15: Mini proyecto colaborativo
+## Flujo de trabajo màs natural
+- El flujo de crear ramas para cada funcionalidad, abrir PRs en GitHub, y fusionarlas con revisiòn me resultò natural. Se siente organizado y profesional, como trabajar en un equipo real.
+## Comando nuevo que quiero dominar
+- Quiero dominar git rebase porque a veces el historial con merges se vuelve complicado, y rebase puese hacerlo màs limpio, pero necesito practicar màs para evitar errores.
+## Errores cometidos y còmo los resolvì
+- Tuve un conflito al fusionar bugfix/fix-sintaxis porque modifiquè la misma secciòn de todo.sh. Lo resolvì editando manualmente el archivo, combinando los cambios, y usando git add y git commit.
+
