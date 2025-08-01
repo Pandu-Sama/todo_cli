@@ -1,4 +1,9 @@
 #!/bin/bash
+if [ -z "$1" ]; then
+ echo "Uso: $0 [add|remove] <tarea>"
+ exit 1
+fi
+
 if [ "$1" = "add" ]; then
  echo "$2" >> tareas.txt
  echo "Tarea añadida: $2"
